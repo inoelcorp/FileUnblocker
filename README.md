@@ -10,3 +10,6 @@ This is how a file looks like when it's blocked by Windows:
 Just follow the instruction on the screen.
 
 ![image](https://user-images.githubusercontent.com/3995738/233316188-295b366b-0c72-401a-a710-a2b92dfb775e.png)
+
+## License
+Do whatever you want!
